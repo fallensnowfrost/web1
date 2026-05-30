@@ -30,7 +30,7 @@ web1/
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/romantickwxw-hash/web1.git
+   git clone https://github.com/fallensnowfrost/web1.git
    ```
 
 2. 进入项目目录：
